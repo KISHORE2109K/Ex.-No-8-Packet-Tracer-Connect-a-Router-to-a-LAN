@@ -120,8 +120,6 @@ ________________________________________<br>
 
 •	Successful ping PC1 → PC4; R2 → PC2<br>
 <img width="870" height="881" alt="Screenshot 2025-09-26 085456" src="https://github.com/user-attachments/assets/6f7301a4-6a79-446f-90d1-c12ddae90a33" />
-
-•	Interface up messages after no shutdown on each link <br>
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/4b7745e8-9963-4705-bb69-539bc5474c23" />
 
 ________________________________________<br>
